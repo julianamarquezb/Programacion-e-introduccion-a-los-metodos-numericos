@@ -1,1 +1,7 @@
-# Programaci-n-e-introducci-n-a-los-m-todos-num-ricos
+#Programación e introducción a los métodos numéricos - Proyecto Final
+
+Integrantes del grupo:
+  - Gabriel Romero
+  - Juliana Márquez
+  - David Aparicio
+  - Pedro Jaramillo
