@@ -26,7 +26,6 @@ r = 5
 densidad = 1
 probabilidadDeContagio = 1/10
 tamaño_poblacion = 200
-frame = 0
 circulos = []
 
 pantalla = pygame.display.set_mode((X,Y))
@@ -118,6 +117,5 @@ def correr_simulacion():
         mover()
         detectar_colision()
         dibujar()
-        frame += 1
 
 correr_simulacion()
